@@ -1,0 +1,7 @@
+{
+  "name": "NutriScan AI",
+  "description": "A smart nutrition assistant that calculates calories and macronutrients from food descriptions or photos using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
